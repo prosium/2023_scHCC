@@ -179,8 +179,8 @@ print(head(fData(monocle_cds)))
 
 ```
 setwd("/data/prosium/04.scRNA_HCC/20220517/")
-BEAM_res <- readRDS("Epithelial_BEAM.res.rds")
-monocle_cds <- readRDS("Epithelial_monocle.cds.rds")
+BEAM_res <- readRDS("Cholangiocytes_BEAM.res.rds")
+monocle_cds <- readRDS("Cholangiocytes_monocle.cds.rds")
 
 
 load("../20220425/immune.combined_newAnno.singleR.RData") # annotated
