@@ -1,4 +1,13 @@
-# hcc
+# Different regulatory mechanisms of hepatitis B- and C-positive hepatocellular carcinoma by single-cell RNA sequencing 
+
+
+Su-Jin Baek†, Seung-Jin Park†, Minho Lee†, 
+Won Park, Jong-Hwan Kim, Youngjin Shin, Ok-Hee Kim, Ho Joong Choi, 
+Say-June Kim*, Yeun-Jun Chung*, Seon-Young Kim*
+
+Detailed instructions for the step-by-step process are described below. Please raise issue if you have any problem.
+
+---
 
 |No.|Fig|codes|Results|
 |------|---|---|---|
