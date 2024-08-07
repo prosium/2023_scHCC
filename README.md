@@ -1,9 +1,7 @@
-# Different regulatory mechanisms of hepatitis B- and C-positive hepatocellular carcinoma by single-cell RNA sequencing 
+# Integrated Single-cell RNA-sequencing of HBV-positive Liver Disease
 
+Seung-Jin Park, Su-Jin Baek, Minho Lee4, Won Park, Jong-Hwan Kim, Youngjin Shin, Ok-Hee Kim, Ho Joong Choi, Sun Shin, Say-June Kim, Yeun-Jun Chung, Seon-Young Kim
 
-Su-Jin Baek†, Seung-Jin Park†, Minho Lee†, 
-Won Park, Jong-Hwan Kim, Youngjin Shin, Ok-Hee Kim, Ho Joong Choi, 
-Say-June Kim*, Yeun-Jun Chung*, Seon-Young Kim*
 
 Detailed instructions for the step-by-step process are described below. Please raise issue if you have any problem.
 
